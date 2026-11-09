@@ -12,3 +12,6 @@ def ticketstatus(for i = 0):
 	ticektstatus.close()
 elif:
 	continue
+
+
+# limiting trials of the model for 3 times only
