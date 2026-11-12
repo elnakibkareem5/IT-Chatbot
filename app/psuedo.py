@@ -15,3 +15,4 @@ elif:
 
 
 # limiting trials of the model for 3 times only
+def chat()
